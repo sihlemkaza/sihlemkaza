@@ -55,3 +55,14 @@ I am always willing to learn new languages and add new tools to my development s
   <img alt="Vim" src="https://img.shields.io/badge/VIM-019733.svg?&style=for-the-badge&logo=vim&logoColor=white">
   <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=androidstudio&logoColor=white">
 </p>
+
+---
+
+<h5>Acknowledgements</h5>
+<p>
+  Resources used in creating this page.
+  <ul>
+    <li> <a href="https://simpleicons.org" target="_blank">Simple Icons</a> </li>
+    <li> <a href="https://shields.io" target="_blank">Shields.io badges</a> </li>
+  </ul>
+</p>
