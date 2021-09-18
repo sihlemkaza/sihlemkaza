@@ -1,7 +1,11 @@
 <h2> Hi there 👋</h2>
 <p>
-  <a href="https://www.linkedin.com/in/sihlemkaza/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-   <a href="https://www.credly.com/users/sihlemkaza/badges" target="_blank"><img alt="Credly Acclaim" src="https://img.shields.io/badge/Acclaim-26689A?style=for-the-badge&logo=acclaim&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sihlemkaza/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0072B1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.credly.com/users/sihlemkaza/badges" target="_blank">
+     <img alt="Credly Acclaim" src="https://img.shields.io/badge/Acclaim-26689A?style=for-the-badge&logo=acclaim&logoColor=white">
+  </a>
 </p>
 
 I'm Sihle Mkaza, a Software Developer. Welcome to my page.
@@ -31,7 +35,6 @@ I am always willing to learn new languages and add new tools to my development s
 <h3>Cloud, Platforms & Databases</h3>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img alt="IBM Cloud" src="https://img.shields.io/badge/IBM_Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=black">
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
   <img alt="Redis" src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white">
@@ -62,9 +65,11 @@ I am always willing to learn new languages and add new tools to my development s
 
 <h5>Acknowledgements</h5>
 <p>
-  Resources used in creating this page.
-  <ul>
-    <li> <a href="https://simpleicons.org" target="_blank">Simple Icons</a> </li>
-    <li> <a href="https://shields.io" target="_blank">Shields.io badges</a> </li>
-  </ul>
+  Resources used in creating this page. </br>
+  <a href="https://simpleicons.org" target="_blank">
+    <img alt="Simple Icons" src="https://img.shields.io/badge/simple_icons-111111.svg?&style=for-the-badge&logo=simpleicons&logoColor=white">
+  </a>
+  <a href="https://shields.io" target="_blank">
+    <img alt="Shields.io" src="https://img.shields.io/badge/shields.io-000000.svg?&style=for-the-badge&logo=shields.io&logoColor=white">
+  </a> 
 </p>
