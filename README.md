@@ -71,6 +71,14 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
   <img alt="DrawIO" src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
 </div>
 
+### Tech Skills Chart
+
+<div>
+  <img
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sihlemkaza&skills=CSS,HCL,HTML,Java,JavaScript,SCSS,Typescript&width=820"
+  />
+</div>
+
 ---
 
 Resources used in creating this page.
