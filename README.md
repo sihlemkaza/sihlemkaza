@@ -19,6 +19,7 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
   <img alt="Python" src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-F7F7F7?style=for-the-badge&logo=rust&logoColor=black"/>
 </div>
 
 ### Frontend Development
@@ -75,7 +76,7 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 
 <div>
   <img
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sihlemkaza&skills=CSS,HCL,HTML,Java,JavaScript,SCSS,Typescript&width=820"
+    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sihlemkaza&skills=CSS,HCL,HTML,Java,JavaScript,JSON,SCSS,Typescript,Rust&width=820"
   />
 </div>
 
