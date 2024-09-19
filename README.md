@@ -20,9 +20,16 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 
 ### Technologies & Frameworks
 <div>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=black"/>
   <img alt="ReactJS" src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+</div>
+
+### Currently Learning
+<div>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-F7F7F7?style=for-the-badge&logo=rust&logoColor=black"/>
 </div>
 
 ### Cloud Services
