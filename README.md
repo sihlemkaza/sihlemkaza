@@ -10,14 +10,6 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 [![Codersrank](https://img.shields.io/badge/Profile-Codersrank-67A4AC)](https://profile.codersrank.io/user/sihlemkaza/)
 [![Twitter](https://img.shields.io/badge/Profile-Twitter-1D9BF0)](https://twitter.com/sihlemkaza_)
 
-### Programming Languages
-
-<div>
-  <img
-    src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sihlemkaza&skills=CSS,HCL,HTML,Java,JavaScript,Python,SCSS,Typescript,Rust&width=820"
-  />
-</div>
-
 ### Technologies & Frameworks
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -43,7 +35,7 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 
 <div>
   <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img alt="CloudFormation" src="https://img.shields.io/badge/AWS CloudFormation-ED3F7D?style=for-the-badge&logo=cloudformation&logoColor=white"/>
+  <img alt="AWS CloudFormation" src="https://img.shields.io/badge/AWS CloudFormation-ED3F7D?style=for-the-badge&logo=cloudformation&logoColor=white"/>
   <img alt="AWS CDK" src="https://img.shields.io/badge/AWS CDK-FFC330?style=for-the-badge&logo=cloudformation&logoColor=white"/>
 </div>
 
@@ -52,6 +44,7 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 <div>
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img alt="Amazon ECS" src="https://img.shields.io/badge/AWS CDK-FFC330?style=for-the-badge&logo=cloudformation&logoColor=white"/>
 </div>
 
 ---
