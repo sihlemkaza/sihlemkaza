@@ -44,7 +44,7 @@ Welcome to my GitHub profile, feel free to reach out to me for any collaboration
 <div>
   <img alt="Docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="Amazon ECS" src="https://img.shields.io/badge/AWS CDK-FFC330?style=for-the-badge&logo=cloudformation&logoColor=white"/>
+  <img alt="Amazon ECS" src="https://img.shields.io/badge/Amazon ECS-FFC330?style=for-the-badge&logo=cloudformation&logoColor=white"/>
 </div>
 
 ---
